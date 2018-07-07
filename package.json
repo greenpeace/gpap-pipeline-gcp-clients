@@ -1,0 +1,12 @@
+{
+  "name": "gpap-pipeline-gcp-clients",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:greenpeace/gpap-pipeline-gcp-clients.git",
+  "author": "Greenpeace Australia Pacific Engineering",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
